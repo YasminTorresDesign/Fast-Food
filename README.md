@@ -36,7 +36,7 @@ FAST-FOOD/
 - Tarjetas de producto con descripción, precio y botón de compra.
 - Opción de "Cargar Más".
 
-![Vista Menú](./images/vista-productos.png)
+![Vista Menú](./images/vista-menu.png)
 
 ---
 
